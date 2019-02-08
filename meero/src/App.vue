@@ -5,9 +5,7 @@
       <b-navbar-brand href="#">THE CAT WEBSITE</b-navbar-brand>
 
         <b-navbar-nav class="ml-auto">
-          <b-button v-b-modal.modalFavorite class="float-right" variant="primary">
-            Mes favoris
-          </b-button>
+
         </b-navbar-nav>
 
     </b-navbar>
